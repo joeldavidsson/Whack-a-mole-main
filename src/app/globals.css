@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+}
+
+.custom-cursor {
+	cursor: url('/hand.png'), auto;
+}
